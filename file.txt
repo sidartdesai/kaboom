@@ -8,7 +8,10 @@ sixth comment
 seventh comment
 eighth comment
 nineth comment
+<<<<<<< HEAD
 tenth comment
 =======
 >>>>>>> parent of 1ee661e... second commit
 11 comment
+=======
+>>>>>>> parent of f5de20d... tenth commit
